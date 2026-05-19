@@ -1,0 +1,2 @@
+# MediChat_AI
+MediBlast AI is a local AI medical diagnostic chatbot built with Python and Flask. It accepts plain-language symptom descriptions, extracts key medical terms using an NLP text processor and symptom vocabulary, and matches them against a structured disease dataset of 35+ conditions using a BFS-based scoring algorithm. Results include ranked condition matches with confidence scores, specialist recommendations, and actionable care steps. Built as a learning project — no external AI APIs, no database, no cloud. Everything runs locally and offline.
